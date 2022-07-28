@@ -5,7 +5,7 @@
     "background_color": "#ffffff",
     "description": "Tutorial of Laravel Package",
     "display": "fullscreen",
-    "theme_color": "#6777ef",
+    "theme_color": "#ffffff",
     "icons": [
         {
             "src": "/images/logo.svg",
