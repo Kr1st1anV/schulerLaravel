@@ -1,5 +1,5 @@
 <head>
-   <meta name="theme-color" content="#6777ef"/>
+   <meta name="theme-color" content="#ffffff"/>
    <link rel="apple-touch-icon" href="{{ asset('/images/logo.svg') }}">
    <link rel="manifest" href="{{ asset('/manifest.json') }}">
 </head>
