@@ -1,4 +1,2 @@
 Sudo pass: MYjgmUYNAvjsTAZlPeUD
 Database pass: dToGZBykTg6R0YZtOjUU
-
-works
