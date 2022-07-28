@@ -1,6 +1,6 @@
 {
-    "name": "Schuler App",
-    "short_name": "LPT",
+    "name": "HPHS Schuler App",
+    "short_name": "HPHS Schuler",
     "start_url": "/",
     "background_color": "#ffffff",
     "description": "Tutorial of Laravel Package",
