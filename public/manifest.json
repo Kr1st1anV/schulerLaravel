@@ -2,7 +2,7 @@
     "name": "Schuler App",
     "short_name": "LPT",
     "start_url": "/",
-    "background_color": "#6777ef",
+    "background_color": "#ffffff",
     "description": "Tutorial of Laravel Package",
     "display": "fullscreen",
     "theme_color": "#6777ef",
